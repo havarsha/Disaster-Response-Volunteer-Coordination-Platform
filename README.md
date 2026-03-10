@@ -107,3 +107,4 @@ AI-based disaster damage detection
 SMS-based SOS requests
 Disaster prediction using weather data
 Mobile app integration
+Minor documentation update for project.
